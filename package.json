@@ -7,6 +7,7 @@
     "start": "netlify dev"
   },
   "dependencies": {
+    "canvas": "^2.11.2",
     "d3": "^7.0.0",
     "jsdom": "^16.0.0"
   }
