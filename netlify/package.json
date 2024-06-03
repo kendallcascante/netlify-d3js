@@ -1,0 +1,14 @@
+{
+  "name": "netlify-d3-map",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step required'",
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "d3": "^7.0.0",
+    "jsdom": "^16.0.0"
+  }
+}
