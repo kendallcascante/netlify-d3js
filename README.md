@@ -2,4 +2,4 @@
 
 https://d3jsnetlify.netlify.app
 
-https://d3jsnetlify.netlify.app/api
+https://d3jsnetlify.netlify.app/api/visualization
